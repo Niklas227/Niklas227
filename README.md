@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Niklas227&label=Profile%20views&color=green&style=flat" alt="Niklas227"/></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Niklas227" alt="Niklas227" /></a> </p>
