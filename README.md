@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p> <img src="https://komarev.com/ghpvc/?username=Niklas227&label=Profile%20views&color=green&style=flat" alt="Niklas227"/></p>
+
+
 <!--
 **Niklas227/Niklas227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
