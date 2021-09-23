@@ -7,7 +7,7 @@
 #### Stats
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasWag&show_icons=true&theme=chartreuse-dark&locale=en&count_private=true" alt="niklasWag" />   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasWag&layout=compact&theme=chartreuse-dark" alt="niklasWag" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasWag&layout=compact&theme=chartreuse-dark" alt="niklasWag" />-->
 </div>
 
 
