@@ -1,8 +1,12 @@
 <h1 align="center">Hello there 👋, I'm Niklas</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niklas227&label=Profile%20views&color=24db84&style=flat" alt="niklas227" /> </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasWag&show_icons=true&theme=chartreuse-dark&locale=en" alt="niklas227" />   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasWag" alt="niklas227" /></p>
+#### Stats
+<div style="padding:250px">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasWag&show_icons=true&theme=chartreuse-dark&locale=en" alt="niklasWag" />   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasWag&layout=compact&theme=chartreuse-dark" alt="niklasWag" />
+</div>
+
 
 
 
