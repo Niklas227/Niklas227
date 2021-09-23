@@ -1,10 +1,13 @@
-<h1 align="center">Hello there 👋, I'm Niklas</h1>
+<h1 align="center">Welcome to my profile</h1>
+<h3 align="left">Hello there 👋</h3>
+<p align="left">I'm Niklas! I'm a vocational training student at SAP studying computer science.</p>
 
+---
 
 #### Stats
-<div style="padding:250px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasWag&show_icons=true&theme=chartreuse-dark&locale=en" alt="niklasWag" />   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasWag&layout=compact&theme=chartreuse-dark" alt="niklasWag" />
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niklasWag&show_icons=true&theme=chartreuse-dark&locale=en&count_private=true" alt="niklasWag" />   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasWag&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&count_private=true" alt="niklasWag" />
 </div>
 
 
